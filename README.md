@@ -14,7 +14,7 @@ HUGE SHOUTOUT to @Harper and @Matt Kempler to get our website almost ready to la
 Thanks @channel for the  wonderful emojis.  A few comments:<br>
 This is a work in progress.  Its not perfect yet but most things that need to be corrected only Harper and I know.<br>
 We published live the new 1) Home page, 2) Platform Overview, 3) Delta-1, & 4) Dashboard.<br>
-The old Software Platform page redirects to Dashboard :+1:<br>
+The old Software Platform page redirects to Dashboard <br>
 The  Training page is almost done, and we’ll use that as a template to create the Safety and Productivity pages<br>
 We are also working on a Location Tracking and Contact Tracing page.  Some graphics are being created.  Stay tuned.<br>
 We linked Google Tag Manager and Search Console, though we are not sure exactly how to use them yet.<br>
