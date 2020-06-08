@@ -1,6 +1,6 @@
 # WordPress
 
-Website update:
+Website update:<br>
 4 new pages are live. Productivity, Safety, Training, and the Location/Contact tracing pages.  Use case pages for the Productivity, Safety, & Training, still need to be created.  This could add 9 more pages (3 each). 
 A banner was also added to the top to highlight our contact tracing solutions
 A few updates to the menu bar
