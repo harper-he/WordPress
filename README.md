@@ -1,6 +1,14 @@
 # WordPress
 
 Website update:<br>
+| Update  | Page Name  | Link  | 
+|---|---|---|
+| Big Data Analytics   | Spark  | Hadoop, Spark, Logistic Regression, Regularization,Statistical Learning, PCA, Random Forest, Gradient Boosting Machines, Bootstrap Sampling, Bagging, Deep Learning | 
+| Introduction to Data Science  | Scikit-learn  | Preprocessing, Visualization, Classification (Basics/Lazy/Bayesian), Clustering (Partitional/Hierarchical/Density), Evaluation, Association, Anomaly Detection, Web Mining, Recommender Systems  | 
+| Natural Language Processing  | NLTK  | Machine Learning, Linguistic analysis, Tokenization, Semantics, Part-of-speech tagging, syntax and discourse, Sentiment analysis, Dialogue systems  | 
+
+
+
 4 new pages are live. Productivity, Safety, Training, and the Location/Contact tracing pages.  <br>
 Use case pages for the Productivity, Safety, & Training, still need to be created.  This could add 9 more pages (3 each). <br>
 A banner was also added to the top to highlight our contact tracing solutions<br>
