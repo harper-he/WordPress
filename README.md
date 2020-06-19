@@ -5,13 +5,18 @@ Website update:<br>
 |---|---|---|
 | Update | Home page |  | 
 | New Page | Platform Overview |  | 
-| Update | Delta-1 |  | 
-| Update | Dashboard |  | 
+| Update | Delta-1 | Old Vs New Delta-1 Page Comparison  | 
+| Update | Dashboard | Old Vs New Dashboard Page Comparison  | 
 | New Page | Productivity  |  | 
 | New Page | Safety  |  | 
 | New Page | Training  |  | 
 | New Page | Location/Contact tracing |  | 
+| SEO | All pages |  | 
+| Banner | Location/Contact tracing |  | 
 | Plugin | Hubspot | N/A | 
+| Plugin | Google Analytics | N/A | 
+| Plugin | Google Tag Manager | N/A | 
+| Plugin | Yoast | N/A | 
 
 
 4 new pages are live. Productivity, Safety, Training, and the Location/Contact tracing pages.  <br>
