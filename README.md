@@ -1,12 +1,17 @@
 # WordPress
 
 Website update:<br>
-| Update  | Page Name  | Link  | 
+| Update Type  | Page Name  | Link  | 
 |---|---|---|
-| Big Data Analytics   | Spark  | Hadoop, Spark, Logistic Regression, Regularization,Statistical Learning, PCA, Random Forest, Gradient Boosting Machines, Bootstrap Sampling, Bagging, Deep Learning | 
-| Introduction to Data Science  | Scikit-learn  | Preprocessing, Visualization, Classification (Basics/Lazy/Bayesian), Clustering (Partitional/Hierarchical/Density), Evaluation, Association, Anomaly Detection, Web Mining, Recommender Systems  | 
-| Natural Language Processing  | NLTK  | Machine Learning, Linguistic analysis, Tokenization, Semantics, Part-of-speech tagging, syntax and discourse, Sentiment analysis, Dialogue systems  | 
-
+| Update | Home page |  | 
+| New Page | Platform Overview |  | 
+| Update | Delta-1 |  | 
+| Update | Dashboard |  | 
+| New Page | Productivity  |  | 
+| New Page | Safety  |  | 
+| New Page | Training  |  | 
+| New Page | Location/Contact tracing |  | 
+| Plugin | Hubspot | N/A | 
 
 
 4 new pages are live. Productivity, Safety, Training, and the Location/Contact tracing pages.  <br>
